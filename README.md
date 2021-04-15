@@ -10,10 +10,11 @@ Record the embedding study history.
 - Ju-Yeon Yu
 
 ## Materials
-- Book: <a href="http://www.yes24.com/Product/Goods/78569687"><img src="https://i.imgur.com/j03ENCc.jpg" width="500px" title="embeddings" /></a>
+- Book: 
+<a href="http://www.yes24.com/Product/Goods/78569687"><img src="https://i.imgur.com/j03ENCc.jpg" width="500px" title="embeddings" /></a>
 
 - [정오표](https://ratsgo.github.io/embedding/notice.html)
-- 
+
 # code
 
 본 레파지토리의 디렉토리 및 코드 구조는 다음과 같습니다.
@@ -45,7 +46,7 @@ Record the embedding study history.
 # Reference
 - [NLP_tutorial](https://github.com/graykode/nlp-tutorial?files=1')
 - [한국어 임베딩 튜토리얼](https://ratsgo.github.io/embedding/)
-- [NLP_tutorial](https://github.com/jinmang2/KoreanEmbedding)
+- [KoreanEmbedding](https://github.com/jinmang2/KoreanEmbedding)
 
 ## Syllabus
 |Event|Date|In-class lecture|Materials and Assignments|
