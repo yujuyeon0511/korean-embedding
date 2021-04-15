@@ -58,7 +58,7 @@ Record the embedding study history.
 |Lecture 4|03/24|03. 한국어 전처리<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
 |Lecture 5|04/01|04. 단어 수준 임베딩<ul><li>4.1 NPLM<li>4.2 Word2Vec<li>4.3 FastText|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>양동헌 |
 |Lecture 6|04/07|Field study|Presenter:</a>유주연 |
-|Lecture 7|04/15|04. 단어 수준 임베딩<ul><li>4.1 잠재 의미 분석<li>4.2 GloVe<li>4.3 Swivel<li>4.4 어떤 단어 임베딩을 사용할 것인가<li>4.5 가중 임베딩|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>최익제 |
+|Lecture 7|04/15|04. 단어 수준 임베딩<ul><li>4.4 잠재 의미 분석<li>4.5 GloVe<li>4.6 Swivel<li>4.7 어떤 단어 임베딩을 사용할 것인가<li>4.8 가중 임베딩|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>최익제 |
 |Lecture 8|04/21|Field study|Presenter:</a>유주연 |
 |Lecture 9|04/29|05. 문장 수준 임베딩<ul><li>5.1 잠재 의미 분석<li>5.2 Doc2Vec<li>5.3 잠재 디리클레 할당|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
 |Lecture 10|05/05|05. 문장 수준 임베딩<ul><li>5.4 ELMo<li>5.2 Doc2Vec<li>5.5 트랜스포머 네트워크|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>양동헌 |
