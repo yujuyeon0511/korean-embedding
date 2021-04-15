@@ -1,11 +1,19 @@
-# korean-embedding
-한국어 임베딩 스터디 내역을 기록합니다.
+# korean-embedding(Spring 2021)
+Record the embedding study history.
+
+## Course Information
+- This course meets for in-class lecture Wed 16:00PM - 18:00PM (Seminar room No.4 at KISTI).
 
 ### Peoples
-* Dong-Hun Yang
-* Ik-Je Choi
-* Ju-Yeon Yu
+- Dong-Hun Yang
+- Ik-Je Choi
+- Ju-Yeon Yu
 
+## Materials
+- Book: <a href="http://www.yes24.com/Product/Goods/78569687"><img src="https://i.imgur.com/j03ENCc.jpg" width="500px" title="embeddings" /></a>
+
+- [정오표](https://ratsgo.github.io/embedding/notice.html)
+- 
 # code
 
 본 레파지토리의 디렉토리 및 코드 구조는 다음과 같습니다.
@@ -37,38 +45,24 @@
 # Reference
 - [NLP_tutorial](https://github.com/graykode/nlp-tutorial?files=1')
 - [한국어 임베딩 튜토리얼](https://ratsgo.github.io/embedding/)
+- [NLP_tutorial](https://github.com/jinmang2/KoreanEmbedding)
 
-### book
+## Syllabus
+|Event|Date|In-class lecture|Materials and Assignments|
+|---------|----|-------------|------------|
+|Lecture 1|03/03|Course Introduction|
+|Lecture 2|03/10|Topics:<ul><li>An Introduction to Neural Networks(<a href="http://www.charuaggarwal.net/Chap1slides.pdf">slides</a>) |<ul><li>No assignments <li><a href="https://www.deeplearningbook.org/contents/notation.html">Notations for understanding papers</a>|
+|Lecture 3|03/17|Topics: Machine Learning with Shallow Neural Networks I(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a>|Paper review:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Mikolov2013b_review_ydh.pdf">[Mikolov13a]</a>(<a href="https://github.com/bart7449/lecture2021a/blob/main/skip-gram%20code%20review.ipynb">code</a>)양동헌 |
+|Lecture 4|03/24|Topics: Machine Learning with Shallow Neural Networks II(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a>|Paper review:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Doc2Vec_review_juyeon.pdf">[Le14a]</a>유주연<li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Bojanowski17a_review_ljy.pdf">[Bojanowski17a]</a>이준영|
+|Lecture 5|04/07|Topics: Training Deep Neural Networks I(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/batch%20Normalization.pdf">[Ioffe15a]</a>이건호 |
+|Lecture 6|04/14|Topics: Training Deep Neural Networks II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper Review:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/node2vec_Byungyun.pdf">[Grover16a]</a>공병윤   <li><a href="https://github.com/bart7449/lecture2021a/blob/slides/210409_Distilling%20the%20Knowledge%20in%20a%20Neural%20Network_%EA%B9%80%EC%A0%95%EB%AF%BC.pdf">[Hinton15a]</a>김정민 |
+|Lecture 7|04/21|Topics: Training Deep Neural Networks II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)<br>Topics: Teaching Deep Learners to Generalize (<a href="http://www.charuaggarwal.net/Chap4slides.pdf">slides</a>)|Paper review:<ul><li>[Ba2016a] |
+|Lecture 8|04/28|Topics: Convolutional Neural Networks I(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|<ul><li>[Glorot10a],[He2015a]양동헌 |
+|Lecture 9|05/05|Topics: Convolutional Neural Networks II(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[Alex12a]송지현<li>[He16a]이건호 |
+|Lecture 10|05/12|Topics: Recurrent Neural Networks I(<a href="http://www.charuaggarwal.net/Chap7slides.pdf">slides</a>)|Paper Reviews:<ul><li>[He16b]김정민<li>[Huang17a]이준영<li>[Hu2018]김형민 |
+|Lecture 11|05/19|Topics:Recurrent Neural Networks II(<a href="http://www.charuaggarwal.net/Chap7slides.pdf">slides</a>)|No assignments | 
+|Lecture 12|05/26|Topics: Attention and Language Model I(slides)|Paper Reviews:<ul><li>[Badahnau16]유주연<li>[Vaswani17a]전호범|
+|Lecture 13|06/02|Topics: Attention and Language Model II|Paper Reviews:<ul><li>[Devlin19a]송지현 |
+|Lecture 14|06/09|Topis: Lightweight Model<ul><li>Quantized Neural Networks|Paper reviews:<ul><li>[Rastegary16a]공병윤<li>[Stock20a]김형민|
+|Lecture 15|06/16|Final Exam|No Assignments | 
 
-본 튜토리얼은 다음 도서를 보완하기 위해 작성됐습니다. 도서를 구매하지 않아도 튜토리얼 수행에 문제는 없으나 일부 내용은 도서를 참고해야 그 맥락을 완전하게 이해할 수 있습니다. 다음 그림을 클릭하면 도서 구매 사이트로 이동합니다.
-
-<a href="http://www.yes24.com/Product/Goods/78569687"><img src="https://i.imgur.com/j03ENCc.jpg" width="500px" title="embeddings" /></a>
-
-- [정오표](https://ratsgo.github.io/embedding/notice.html)
-
-### embedding methods
-
-본 튜토리얼에서 다루는 임베딩 기법은 다음과 같습니다.
-
-- 단어 수준 임베딩
-  - Latent Semantic Analysis
-  - Word2Vec
-  - GloVe
-  - FastText
-  - Swivel
-- 문장 수준 임베딩
-  - Weighted Embeddings
-  - Latent Semantic Analysis
-  - Latent Dirichlet Allocation
-  - Doc2Vec
-  - Embeddings from Language Models (ELMo)
-  - Bidirectional Encoder Representations from Transformer (BERT)
-
-### corpus preprocess
-
-임베딩 학습데이터를 만들기 위해서는 전처리(preprocess)를 해야 합니다. 본 튜토리얼에서 다루는 오픈소스 패키지는 다음과 같습니다.
-
-- KoNLPy : http://konlpy.org
-- Khaiii : https://github.com/kakao/khaiii
-- soynlp : https://github.com/lovit/soynlp
-- sentencepiece : https://github.com/google/sentencepiece
