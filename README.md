@@ -52,7 +52,7 @@ Record the embedding study history.
 |Event|Date|In-class lecture|Materials and Assignments|
 |---------|----|-------------|------------|
 |Lecture 1|03/03|Course Introduction|
-|Lecture 2|03/10|Topics:<ul><li>An Introduction to Neural Networks(<a href="http://www.charuaggarwal.net/Chap1slides.pdf">slides</a>) |<ul><li>No assignments <li><a href="https://www.deeplearningbook.org/contents/notation.html">Notations for understanding papers</a>|
+|Lecture 2|03/10|Topics:<ul><li>01. 서론|<ul><li>No assignments <li><a href="https://www.deeplearningbook.org/contents/notation.html">Notations for understanding papers</a>|
 |Lecture 3|03/17|Topics: Machine Learning with Shallow Neural Networks I(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a>|Paper review:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Mikolov2013b_review_ydh.pdf">[Mikolov13a]</a>(<a href="https://github.com/bart7449/lecture2021a/blob/main/skip-gram%20code%20review.ipynb">code</a>)양동헌 |
 |Lecture 4|03/24|Topics: Machine Learning with Shallow Neural Networks II(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a>|Paper review:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Doc2Vec_review_juyeon.pdf">[Le14a]</a>유주연<li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Bojanowski17a_review_ljy.pdf">[Bojanowski17a]</a>이준영|
 |Lecture 5|04/07|Topics: Training Deep Neural Networks I(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/batch%20Normalization.pdf">[Ioffe15a]</a>이건호 |
