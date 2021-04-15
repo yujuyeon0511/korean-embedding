@@ -53,8 +53,7 @@ Record the embedding study history.
 |Event|Date|In-class lecture|Materials and Assignments|
 |---------|----|-------------|------------|
 |Lecture 1|03/03|Course Introduction|
-|Lecture 2|03/10|01. 서론|<a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">|
-|Lecture 2|03/10|01. 서론(<a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">slides)</a>|Paper review:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Mikolov2013b_review_ydh.pdf">[Mikolov13a]</a>(<a href="https://github.com/bart7449/lecture2021a/blob/main/skip-gram%20code%20review.ipynb">code</a>)양동헌 |
+|Lecture 2|03/10|01. 서론(<a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">slides)</a>|Paper review:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">유주연 |
 |Lecture 3|03/17|Topics: Machine Learning with Shallow Neural Networks I(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a>|Paper review:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Mikolov2013b_review_ydh.pdf">[Mikolov13a]</a>(<a href="https://github.com/bart7449/lecture2021a/blob/main/skip-gram%20code%20review.ipynb">code</a>)양동헌 |
 |Lecture 4|03/24|Topics: Machine Learning with Shallow Neural Networks II(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a>|Paper review:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Doc2Vec_review_juyeon.pdf">[Le14a]</a>유주연<li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Bojanowski17a_review_ljy.pdf">[Bojanowski17a]</a>이준영|
 |Lecture 5|04/07|Topics: Training Deep Neural Networks I(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/batch%20Normalization.pdf">[Ioffe15a]</a>이건호 |
