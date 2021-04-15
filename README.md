@@ -53,7 +53,7 @@ Record the embedding study history.
 |Event|Date|In-class lecture|Materials and Assignments|
 |---------|----|-------------|------------|
 |Lecture 1|03/03|Course Introduction|
-|Lecture 2|03/10|01. 서론(<a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">slides)</a>|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">유주연 |
+|Lecture 2|03/10|01. 서론<ul><li>1.1 임베딩이란 <ul><li>1.2 임베딩의 역할 <ul><li>1.3 임베딩 기법의 역사와 종류 1.4 주요 용어(<a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">slides)</a>|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">유주연 |
 |Lecture 3|03/17|Topics: Machine Learning with Shallow Neural Networks I(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a>|Presenter:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Mikolov2013b_review_ydh.pdf">[Mikolov13a]</a>(<a href="https://github.com/bart7449/lecture2021a/blob/main/skip-gram%20code%20review.ipynb">code</a>)양동헌 |
 |Lecture 4|03/24|Topics: Machine Learning with Shallow Neural Networks II(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a>|Presenter:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Doc2Vec_review_juyeon.pdf">[Le14a]</a>유주연<li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Bojanowski17a_review_ljy.pdf">[Bojanowski17a]</a>이준영|
 |Lecture 5|04/07|Topics:|Presenter:<ul><li>[현장연구]유주연|
