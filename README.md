@@ -55,7 +55,7 @@ Record the embedding study history.
 |Lecture 1|03/03|Course Introduction|
 |Lecture 2|03/10|01. 서론<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
 |Lecture 3|03/17|02. 벡터가 어떻게 의미를 가지게 되는가<ul><li>2.1 자연어 계산과 이해<li>2.2 어떤 단어가 많이 쓰였는가<li>2.3 단어가 어떤 순서로 쓰였는가<li>2.4 어떤 단어가 같이 쓰였는가|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>최익제 |
-|Lecture 4|03/24|03. 한국어 전처리<ul><li>3.1 데이터 확보<li>3.2 지도 학습 기반 형태소 분석<li>3.3 비지도 학습 기반 형태소 분석|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
+|Lecture 4|03/24|03. 한국어 전처리<ul><li>3.1 데이터 확보<li>3.2 지도 학습 기반 형태소 분석<li>3.3 비지도 학습 기반 형태소 분석|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315992/korean_embedding_03.pdf">[slide]</a>유주연 |
 |Lecture 5|04/01|04. 단어 수준 임베딩<ul><li>4.1 NPLM<li>4.2 Word2Vec<li>4.3 FastText|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>양동헌 |
 |Lecture 6|04/07|Field study|Presenter:</a>유주연 |
 |Lecture 7|04/15|04. 단어 수준 임베딩<ul><li>4.4 잠재 의미 분석<li>4.5 GloVe<li>4.6 Swivel<li>4.7 어떤 단어 임베딩을 사용할 것인가<li>4.8 가중 임베딩|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>최익제 |
