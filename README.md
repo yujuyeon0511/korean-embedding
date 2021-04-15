@@ -54,17 +54,17 @@ Record the embedding study history.
 |---------|----|-------------|------------|
 |Lecture 1|03/03|Course Introduction|
 |Lecture 2|03/10|01. 서론<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
-|Lecture 3|03/17|Topics: Machine Learning with Shallow Neural Networks I(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a>|Presenter:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Mikolov2013b_review_ydh.pdf">[Mikolov13a]</a>(<a href="https://github.com/bart7449/lecture2021a/blob/main/skip-gram%20code%20review.ipynb">code</a>)양동헌 |
-|Lecture 4|03/24|Topics: Machine Learning with Shallow Neural Networks II(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a>|Presenter:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Doc2Vec_review_juyeon.pdf">[Le14a]</a>유주연<li><a href="https://github.com/bart7449/lecture2021a/blob/slides/Bojanowski17a_review_ljy.pdf">[Bojanowski17a]</a>이준영|
-|Lecture 5|04/07|Topics:|Presenter:<ul><li>[현장연구]유주연|
-|Lecture 6|04/14|Topics: Training Deep Neural Networks II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Presenter:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/node2vec_Byungyun.pdf">[Grover16a]</a>공병윤   <li><a  |
-|Lecture 7|04/21|Topics: Training Deep Neural Networks II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)<br>Topics: Teaching Deep Learners to Generalize (<a href="http://www.charuaggarwal.net/Chap4slides.pdf">slides</a>)|Presenter:<ul><li>[Ba2016a] |
-|Lecture 8|04/28|Topics: Convolutional Neural Networks I(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|<ul><li>[Glorot10a],[He2015a]양동헌 |
-|Lecture 9|05/05|Topics: Convolutional Neural Networks II(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Presenter:<ul><li>[Alex12a]송지현<li>[He16a]이건호 |
-|Lecture 10|05/12|Topics: Recurrent Neural Networks I(<a href="http://www.charuaggarwal.net/Chap7slides.pdf">slides</a>)|Presenter:<ul><li>[He16b]김정민<li>[Huang17a]이준영<li>[Hu2018]김형민 |
-|Lecture 11|05/19|Topics:Recurrent Neural Networks II(<a href="http://www.charuaggarwal.net/Chap7slides.pdf">slides</a>)|No assignments | 
-|Lecture 12|05/26|Topics: Attention and Language Model I(slides)|Presenter:<ul><li>[Badahnau16]유주연<li>[Vaswani17a]전호범|
-|Lecture 13|06/02|Topics: Attention and Language Model II|Presenter:<ul><li>[Devlin19a]송지현 |
-|Lecture 14|06/09|Topis: Lightweight Model<ul><li>Quantized Neural Networks|Presenter:<ul><li>[Rastegary16a]공병윤<li>[Stock20a]김형민|
+|Lecture 3|03/17|02. 벡터가 어떻게 의미를 가지게 되는가<ul><li>2.1 자연어 계산과 이해<li>2.2 어떤 단어가 많이 쓰였는가<li>2.3 단어가 어떤 순서로 쓰였는가<li>2.4 어떤 단어가 같이 쓰였는가|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>최익제 |
+|Lecture 4|03/24|03. 한국어 전처리<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
+|Lecture 5|04/07|Field study|Presenter:[slide]</a>유주연 |
+|Lecture 6|04/14|01. 서론<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
+|Lecture 7|04/21|01. 서론<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
+|Lecture 8|04/28|01. 서론<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
+|Lecture 9|05/05|01. 서론<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
+|Lecture 10|05/12|Topics: 01. 서론<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
+|Lecture 11|05/19|Topics:01. 서론<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
+|Lecture 12|05/26|01. 서론<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
+|Lecture 13|06/02|01. 서론<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
+|Lecture 14|06/09|01. 서론<ul><li>1.1 임베딩이란<li>1.2 임베딩의 역할<li>1.3 임베딩 기법의 역사와 종류<li>1.4 주요 용어|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
 |Lecture 15|06/16|Final Exam|No Assignments | 
 
