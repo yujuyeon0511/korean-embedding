@@ -60,12 +60,11 @@ Record the embedding study history.
 |Lecture 6|04/07|Field study|Presenter:</a>유주연 |
 |Lecture 7|04/15|04. 단어 수준 임베딩<ul><li>4.4 잠재 의미 분석<li>4.5 GloVe<li>4.6 Swivel<li>4.7 어떤 단어 임베딩을 사용할 것인가<li>4.8 가중 임베딩|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>최익제 |
 |Lecture 8|04/21|Field study|Presenter:</a>유주연 |
-|Lecture 9|04/29|05. 문장 수준 임베딩<ul><li>5.1 잠재 의미 분석<li>5.2 Doc2Vec<li>5.3 잠재 디리클레 할당|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
-|Lecture 10|05/05|05. 문장 수준 임베딩<ul><li>5.4 ELMo<li>5.2 Doc2Vec<li>5.5 트랜스포머 네트워크|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>양동헌 |
+|Lecture 9|04/29|05. 문장 수준 임베딩<ul><li>5.1 잠재 의미 분석<li>5.2 Doc2Vec<li>5.3 잠재 디리클레 할당|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/issues/3#issue-889210509">[slide]</a>유주연 |
+|Lecture 10|05/12|05. 문장 수준 임베딩<ul><li>5.4 ELMo<li>5.2 Doc2Vec<li>5.5 트랜스포머 네트워크|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>양동헌 |
 |Lecture 11|05/12|05. 문장 수준 임베딩<ul><li>5.6 BERT|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>최익제 |
-|Lecture 12|05/19|06. 임베딩 파인 튜닝<ul><li>6.1 프리트레인과 파인튜닝<li>6.2 분류를 위한 파이프라인 만들기<li>6.3 단어 임베딩 활용<li>6.4 ELMo 활용<li>6.5 BERT 활용<li>6.6 어떤 문장 임베딩을 사용할 것인가|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
-|Lecture 13|05/26||Presenter:|
-|Lecture 14|06/02||Presenter:|
-|Lecture 15|06/09||Presenter:|
-|Lecture 16|06/16|Final Exam|No Assignments | 
+|Lecture 12|05/26|06. 임베딩 파인 튜닝<ul><li>6.1 프리트레인과 파인튜닝<li>6.2 분류를 위한 파이프라인 만들기<li>6.3 단어 임베딩 활용<li>6.4 ELMo 활용<li>6.5 BERT 활용<li>6.6 어떤 문장 임베딩을 사용할 것인가|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6315172/korean_embedding_01.pdf">[slide]</a>유주연 |
+|Lecture 13|06/02||Presenter:|
+|Lecture 14|06/09||Presenter:|
+|Lecture 15|06/16|Final Exam|No Assignments | 
 
