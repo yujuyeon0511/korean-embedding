@@ -5,10 +5,10 @@ Record the embedding study history.
 - This course meets for in-class lecture Wed 16:00PM - 18:00PM (Seminar room No.4 at KISTI).
 
 ### Peoples
-- Kyong-Ha Lee
+- [Kyong-Ha Lee](https://github.com/bart7449)
 - Dong-Hun Yang
 - Ik-Je Choi
-- Ju-Yeon Yu
+- [Ju-Yeon Yu](https://github.com/yujuyeon0511)
 
 ## Materials
 - Book: 
