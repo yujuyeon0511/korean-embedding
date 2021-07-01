@@ -65,5 +65,5 @@ Record the embedding study history.
 |Lecture 10|05/17|05. 문장 수준 임베딩<ul><li>5.4 ELMo<li>5.2 Doc2Vec<li>5.5 트랜스포머 네트워크|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6490453/5.-2_ydh.pdf">[slide]</a>양동헌 |
 |Lecture 11|05/26|05. 문장 수준 임베딩<ul><li>5.6 BERT|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6744750/_1.PDF">[slide]</a>최익제 |
 |Lecture 12|06/16|06. 임베딩 파인 튜닝<ul><li>6.1 프리트레인과 파인튜닝<li>6.2 분류를 위한 파이프라인 만들기<li>6.3 단어 임베딩 활용<li>6.4 ELMo 활용<li>6.5 BERT 활용<li>6.6 어떤 문장 임베딩을 사용할 것인가|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6737260/korean_embedding_06.pdf">[slide]</a>유주연 |
-|Lecture 13|06/29|06. 임베딩 파인 튜닝<ul><li>6.1 프리트레인과 파인튜닝<li>6.2 분류를 위한 파이프라인 만들기<li>6.3 단어 임베딩 활용<li>6.4 ELMo 활용<li>6.5 BERT 활용<li>6.6 어떤 문장 임베딩을 사용할 것인가|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6737261/korean_embedding_06.2.pdf">[slide]</a>유주연 |
+|Lecture 13|06/29|06. 임베딩 파인 튜닝<ul><li>6.6 어떤 문장 임베딩을 사용할 것인가|Presenter:<ul><li><a href="https://github.com/yujuyeon0511/korean-embedding/files/6737261/korean_embedding_06.2.pdf">[slide]</a>유주연 |
 
