@@ -6,7 +6,7 @@ Record the embedding study history.
 
 ### Peoples
 - [Kyong-Ha Lee](https://github.com/bart7449)
-- Dong-Hun Yang
+- [Dong-Hun Yang](https://github.com/yangdonghun3)
 - Ik-Je Choi
 - [Ju-Yeon Yu](https://github.com/yujuyeon0511)
 
